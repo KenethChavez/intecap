@@ -1,0 +1,140 @@
+h1{
+	font-family: 'Roboto', sans-serif;
+}
+h2{
+	font-family: 'roboto', sans-serif;
+}
+h3{
+	font-family: 'roboto', sans-serif;
+}
+h4{
+	font-family: 'roboto', sans-serif;
+}
+h5{
+	font-family: 'roboto', sans-serif;
+}
+h6{
+	font-family: 'roboto', sans-serif;
+}
+body{
+	padding: 20px;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+.links{
+	font-family: 'robot', sans-serif;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	gap: 100px;
+	height: 70px;
+	background-color: #1f618d;
+	border: black 0.5px solid;
+}
+.nav1{
+	display: flex;
+	gap: 20px;
+}
+.articulos{
+	border: #cacfd2 solid; padding: 20px;
+	border-radius: 25px;
+	background-color: #f8f9f9;
+}
+.autosdisponibles{
+	display: flex;
+	gap: 50px;
+	justify-content: center;
+}
+.secciones{
+	border: #cacfd2 solid; padding: 20px;
+	width: 330px;
+	border-radius: 50px;
+	background-color: #eaeded;
+	transition: transform 0.3s ease;
+}
+.secciones:hover{
+	transform: scale(1.02);
+	box-shadow: 0 4px 20px #b3b6b7;
+}
+.contenedor{
+	display: flex;
+	align-items: stretch;
+	min-height: 100vh;
+}
+.contenidogeneral{
+	width: 88%;
+	padding: 20px;
+}
+.contenidoaside{
+	margin-top: 25px;
+	width: 12%;
+	padding: 20px;
+	border: #cacfd2 solid;
+	background-color: #e7edee;
+}
+.h3secciones{
+	color: #2e86c1;
+}
+.divaside1{
+	color: gray;
+}
+.h3div{
+	color: #3498db;
+}
+.h5aside{
+	color: #5dade2;
+}
+.titservmeca{
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+p{
+	font-family: 'roboto', sans-serif;
+}
+.autosdisponiblesventa{
+	display: flex;
+	gap: 50px;
+	justify-content: center;
+}
+.seccionesventaut{
+	border: #747474 solid; padding: 20px; 
+	width: 330px;
+	border-radius: 50px;
+	background-color: #e7e7e7;
+	transition: transform 0.3s ease;
+}
+.seccionesventaut:hover{
+	transform: scale(1.02);
+	box-shadow: 0 4px 20px #a2a5a7;
+}
+.colorbannerferrari{
+	background-color: black;
+}
+.linksventa{
+	height: 30px;
+	background-color: gray;
+	align-items: center;
+}
+.colorbannerlambo1{
+	background-color: #1c2225;
+}
+.colorbannerbmw1{
+	background-color: #0c0d0e;
+}
+.colorbannerhonda{
+	background-color: white;
+}
+.divformulario{
+		background: rgb(233, 233, 233);
+		padding: 30px;
+		border-radius: 12px;
+		box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+		width: 450px;
+}
+.tablafinanciamiento{
+	border: #0c0d0e solid; padding: 30px;
+}
